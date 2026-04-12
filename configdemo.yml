@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: configdemo
-
 build:
   id: "121111111"
   version: "200000.2.1"
